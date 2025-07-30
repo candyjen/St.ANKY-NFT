@@ -12,6 +12,8 @@
 
 ![St.ANKY Logo](B0D67FCB-9BB2-4C09-AFD4-E46E660A441B.png)
 
+Anamated here  
+
 - 🧓 **Uncle Stanky**  
   - Tie-dye stoner mascot  
   - Always has glowing joint or pipe  
