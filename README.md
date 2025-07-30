@@ -1,90 +1,98 @@
-# St.ANKY-NFT
-Sure! Here’s a click-and-paste Markdown preview of your St.ANKY NFT Giveaway Collection structure, complete with emojis and a readable summary format for sharing or internal planning:
+# 🌿 St.ANKY NFT Giveaway Plan
 
-⸻
+🎁 **1,000 Animated GIF NFTs**  
+🔁 8-second seamless loops  
+👥 100 Unique Characters × 10 Variations Each  
+🆓 Free mint on Polygon or Base
 
-🌿 St.ANKY NFT Giveaway Overview
+---
 
-🎁 1,000 Animated GIF NFTs
-🔁 8-second seamless loops
-📦 100 Characters × 10 Unique Variations Each
-🆓 Free Mint – Polygon or Base Chain
+## 👤 Character Types
 
-⸻
+- 🧓 **Uncle Stanky**  
+  - Tie-dye stoner mascot  
+  - Always has glowing joint or pipe  
+  - Round pink-tinted glasses w/ rainbow flip-ups
 
-👥 Character Types
+- 🛍️ **Budtenders**  
+  - Diverse cast of retail workers  
+  - St.ANKY branded tees or aprons  
+  - Quirky, sarcastic, over-animated
 
-Type	Description
-🧓 Uncle Stanky	Tie-dye stoner mascot with rainbow glasses and glowing joint
-🛍️ Budtenders	Diverse dispensary workers with attitude and branded gear
-🌿 Customers	Tourists, hypebeasts, stoners, seniors, first-timers
+- 🌿 **Customers**  
+  - Tourists, grandmas, hypebeasts, normies  
+  - Props: edibles, vapes, bags, confusion  
+  - Physical humor encouraged
 
+---
 
-⸻
+## 🗺️ Dispensary Locations (Backgrounds)
 
-🧭 Dispensary Locations
+- 🌀 **Classic Headshop**  
+  Blacklight posters, lava lamps, 90s energy
 
-Each GIF is set in one of the following environments:
+- 💡 **Modern Dispensary**  
+  Sleek display, LED menus, upscale tone
 
-🌎 Location Theme	🔍 Details
-🌀 Classic Headshop	Lava lamps, blacklight posters, cluttered counter
-💡 Modern Dispensary	Sleek shelves, backlit menus, premium vibe
-🧰 Garage Pop-Up	DIY table setup, glowing jars, sketchy charm
-🌲 Oregon Lounge	Wood-paneled stoner den with macrame and smoke
-🧱 Urban Trap Window	Plexiglass counter, handwritten menus, gritty
-🏜️ Desert Vibe Shop	Incense, cactus decor, peyote spirit world
+- 🧰 **Garage Pop-Up**  
+  DIY trap table, hanging lights, back-alley energy
 
+- 🌲 **Oregon Lounge**  
+  Rustic wood walls, smoke haze, sage + plants
 
-⸻
+- 🧱 **Urban Trap Window**  
+  Plexiglass window, graffiti menu, sketchy charm
 
-🎞️ GIF Format & Specs
+- 🏜️ **Desert Vibe Shop**  
+  Cactus, incense, tan tones, peyote motifs
 
-Spec	Value
-⏱️ Duration	8 seconds
-📁 File Type	.gif only
-🔄 Loop	Seamless, perfect loop
-📐 Resolution	1024 × 1024 px minimum
-💾 File Size	≤ 15MB
-⛓️ Blockchain	Polygon or Base
-🗂️ Hosting	IPFS (NFT.storage or Thirdweb)
+---
 
+## 🎞️ GIF Animation Specs
 
-⸻
+- Format: `.gif` (no MP4)
+- Duration: **8 seconds**
+- Loop: **Seamless/infinite**
+- Resolution: **1024×1024** minimum (1:1 aspect ratio)
+- Max File Size: **15MB**
+- Chain: **Polygon or Base**
+- Hosting: **IPFS** (NFT.storage, Thirdweb, or Pinata)
 
-🧠 Example NFT Entry
+---
 
-🆔 Token ID: 473  
-👤 Character Type: Budtender  
-🎬 Action: Bagging up a glowing pre-roll  
-📍 Location: Modern Dispensary  
-🔁 Variation: Loop 3  
-📝 Description: Budtender is bagging up a glowing pre-roll behind the counter of the Modern Dispensary while a lava lamp flickers nearby. This loop is variation #3 in the collectible set.  
-📎 File: budtender_047_loop03.gif  
+## 🧠 Example Metadata
+---
 
+## 📋 Metadata Fields Per NFT
 
-⸻
+- `Token ID`  
+- `Name` → e.g. `Budtender #047 – Loop 3`  
+- `Character Type`  
+- `Variation Number`  
+- `Action Description`  
+- `Location`  
+- `Filename`  
+- `IPFS URL`  
+- `Attributes`  
+- `Description`
 
-📋 Metadata Fields Per NFT
-	•	Token ID
-	•	Name (Character #___ – Loop ___)
-	•	Character Type
-	•	Variation Number
-	•	Action Description
-	•	Location
-	•	Filename
-	•	IPFS URL (added after upload)
-	•	Attributes (JSON-style string)
-	•	Description
+---
 
-⸻
+## 🚫 Content Rules
 
-🚫 Content Rules
-	•	🔥 GIF only – no MP4s or stills
-	•	🚫 No drug logos, explicit brands, or real cannabis content
-	•	💨 Stylized smoke & humor ok
-	•	✅ Official St.ANKY logo required on all merch or clothing
-	•	📛 No repeated poses — each GIF must be uniquely animated
+- ✅ All animations must be `.gif` only — no MP4  
+- ✅ All loops must be 8 seconds and seamless  
+- ✅ Characters must wear official St.ANKY apparel  
+- 🚫 No real drug branding, explicit content, or off-brand logos  
+- 🚫 No repeated or slightly altered loops — **each must be unique**
 
-⸻
+---
 
-Let me know if you’d like this output in Notion, PDF, or printed into your website drop copy! I can also help you batch-promote each character on socials with a caption and preview thumbnail.
+## ✅ Ready to Drop
+
+Once all 1,000 GIFs are generated and uploaded:
+- ✅ Update metadata file with IPFS links
+- ✅ Deploy smart contract with free mint (Polygon/Base)
+- ✅ Promote with character previews and loop teasers
+
+Let’s get stanky. ✌️
