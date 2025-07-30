@@ -14,7 +14,9 @@
   - Tie-dye stoner mascot  
   - Always has glowing joint or pipe  
   - Round pink-tinted glasses w/ rainbow flip-ups
+ 
 
+![Uncle Stanky – Creative Loop 2](Creative_make_look_202507301458.gif)
 - 🛍️ **Budtenders**  
   - Diverse cast of retail workers  
   - St.ANKY branded tees or aprons  
