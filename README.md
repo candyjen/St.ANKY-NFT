@@ -23,6 +23,7 @@
   - Tourists, grandmas, hypebeasts, normies  
   - Props: edibles, vapes, bags, confusion  
   - Physical humor encouraged
+![Vibing Uncle Stanky](Vibing_202507291707.gif)
 
 ---
 
