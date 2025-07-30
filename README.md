@@ -1,4 +1,5 @@
 # 🌿 St.ANKY NFT Giveaway Plan
+![Uncle Stanky – Creative Loop](Creative_make_look_202507301455.gif)
 
 🎁 **1,000 Animated GIF NFTs**  
 🔁 8-second seamless loops  
