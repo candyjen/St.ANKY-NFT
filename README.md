@@ -10,9 +10,9 @@
 
 ## 👤 Character Types
 
-![St.ANKY Logo](B0D67FCB-9BB2-4C09-AFD4-E46E660A441B.png)
+![St.ANKY Logo](B0D67FCB-9BB2-4C09-AFD4-E46E660A441B.png
 
-Anamated here  
+![_scene_title_stankys](./_scene_title_stankys_202507271901.gif)
 
 - 🧓 **Uncle Stanky**  
   - Tie-dye stoner mascot  
