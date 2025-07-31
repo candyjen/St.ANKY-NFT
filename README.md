@@ -36,6 +36,8 @@
 
 ## 🗺️ Dispensary Locations (Backgrounds)
 
+![_scene_stanky](./_scene_stanky_202507310939.gif)
+
 - 🌀 **Classic Headshop**  
   Blacklight posters, lava lamps, 90s energy
 
