@@ -119,5 +119,15 @@ Examples:
 	7.	🎉 Launch free mint
 ⸻
 
+## ✅ Launch Checklist
+
+- [x] 🖼 Generate all **1,000 GIFs**
+- [ ] 📉 Optimize and compress
+- [ ] 🌐 Upload to IPFS
+- [ ] 📜 Update metadata JSON with IPFS CIDs
+- [ ] ⚙️ Deploy smart contract (Polygon/Base)
+- [ ] 📢 Promote with previews and loop teasers
+- [ ] 🎉 Launch free mint
+
 
 
