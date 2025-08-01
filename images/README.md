@@ -60,14 +60,19 @@
 - 🌐 **Hosting:** IPFS ([NFT.Storage](https://nft.storage/), [Thirdweb](https://thirdweb.com/), [Pinata](https://www.pinata.cloud/))  
 
 ---
-
+'''
 ## 🗂 Folder Structure
 
 images/
+
 ├── minted/        # Final GIFs ready for minting
+
 ├── previews/      # Lower-res or watermarked versions
+
 ├── traits/        # Character & background layers
+
 ├── metadata/      # JSON metadata for each NFT
+
 └── archive/       # Replaced or unused GIFs
 
 
