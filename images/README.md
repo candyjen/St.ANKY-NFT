@@ -109,8 +109,6 @@ Examples:
 	•	🚫 No explicit drug brands, sexual content, or off-brand logos
 	•	🚫 No duplicate or slightly altered loops — each NFT must be unique
 
-⸻
-
 ✅ Launch Checklist
 	1.	🖼 Generate all 1,000 GIFs
 	2.	📉 Optimize and compress
@@ -119,5 +117,7 @@ Examples:
 	5.	📜 Deploy smart contract (Polygon or Base)
 	6.	📢 Promote with previews and loop teasers
 	7.	🎉 Launch free mint
+⸻
+
 
 
