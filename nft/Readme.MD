@@ -16,8 +16,10 @@ Modern React stack, on-chain and optional OpenSea off-chain gating.
 
 ⸻
 
-📦 Project Structure 
+📦 Project Structure
+## 📦 Project Structure
 
+```plaintext
 polygon-nft-gated-app/
 ├── .env.local
 ├── hooks/
