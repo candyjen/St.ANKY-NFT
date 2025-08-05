@@ -33,6 +33,7 @@ polygon-nft-gated-app/
 │   └── secret.js                # gated content
 ├── next.config.js
 └── package.json
+```
 
 ⸻
 
