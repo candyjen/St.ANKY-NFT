@@ -7,10 +7,13 @@ A complete starter that lets newbies claim a free Polygon NFT and immediately un
 🚀 Features
 	•	Claim Page (/claim)
 Visitors connect a wallet and mint one free NFT (powered by Thirdweb NFT Drop on Polygon).
+
 	•	Secret Page (/secret)
 Only holders of that NFT can view your exclusive content.
+
 	•	Beginner-friendly wallet guide
 Step-by-step MetaMask setup, Polygon network, MATIC funding, and claim flow.
+
 	•	Next.js + wagmi + RainbowKit + Thirdweb
 Modern React stack, on-chain and optional OpenSea off-chain gating.
 
