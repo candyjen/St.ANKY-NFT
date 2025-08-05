@@ -16,7 +16,7 @@ Modern React stack, on-chain and optional OpenSea off-chain gating.
 
 ⸻
 
-📦 Project Structure
+📦 Project Structure 
 
 polygon-nft-gated-app/
 ├── .env.local
@@ -31,7 +31,6 @@ polygon-nft-gated-app/
 │   └── secret.js                # gated content
 ├── next.config.js
 └── package.json
-
 
 ⸻
 
